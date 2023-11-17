@@ -1,6 +1,5 @@
 import random 
-import pandas as pd
-import numpy as np 
+import pandas as pd 
 lst = ['robot'] * 10
 lst += ['human'] * 10
 print(lst)
